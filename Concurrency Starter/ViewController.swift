@@ -261,7 +261,7 @@ class ViewController: UIViewController
     // ** BEGIN DEFINITION OF TASK/BLOCK COMPLETION *** \\
                     
                     //
-                    // [*2]
+                    // [*4]
                     // imageView.image = UIImage(data: imageData as! Data)
                     //
                     // "Forced cast from 'NSData?' to 'Data' only
